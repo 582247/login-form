@@ -11,6 +11,17 @@ body {
   height: 100vh;
   background: black;
 }
+.container {
+  background: rgb(15, 15, 15);
+  width: 350px;
+  height: 450px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+  padding: 2rem;
+}
 .heading {
   font-size: 2rem;
   margin-bottom: 0.5rem;
