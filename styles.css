@@ -49,3 +49,6 @@ body {
   border-radius: 10px;
   transition: all 0.4s;
 }
+.container .box input:focus::placeholder{
+  color: white;
+}
