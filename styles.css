@@ -4,6 +4,13 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: black;
+}
 .heading {
   font-size: 2rem;
   margin-bottom: 0.5rem;
