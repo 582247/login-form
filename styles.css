@@ -75,3 +75,16 @@ body {
   background: linear-gradient(to right, #ff416c, #ff4b2b);
   transition: all 0.4s;
 }
+.loginBtn:hover{
+  transform: translate(-1%, 5%);
+  box-shadow: 0 0 10px #ff416d65;
+}
+.text{
+  font-size: 0.8rem;
+  margin-top: 0.5rem;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.623);
+}
+.text a{
+  color: rgba(255, 255, 255, 0.911);
+}
